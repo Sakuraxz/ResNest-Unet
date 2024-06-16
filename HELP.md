@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DCSAU-Net: A Deeper and More Compact Split-Attention U-Net for Medical Image Segmentation
 ## News
 2022.08.25: The DCSAU-Net model has been optimised. The paper will be updated later.
@@ -44,3 +45,7 @@ python eval_binary.py --dataset your/data/path --csvfile your/csv/path --model s
 ```
 ## Acknowledgement
 The codes are modified from [ResNeSt](https://github.com/zhanghang1989/ResNeSt/tree/5fe47e93bd7e098d15bc278d8ab4812b82b49414), [U-Net](https://github.com/milesial/Pytorch-UNet)
+=======
+# ResNest-Unet
+This repository will record the code used in my undergraduate graduation project
+>>>>>>> 080f8e6ee3dcf9f52838f97baeda6428788b87da
